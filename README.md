@@ -1,0 +1,2 @@
+# FusionSQ
+SmartQuote add-in
